@@ -1,0 +1,19 @@
+.header, .hero, .body, .footer{
+	background-color: #FFAEC9;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.box{
+	height: 100px;
+	background-color: #99D9EA;
+	border:2px solid green;
+	margin: 30px 0;
+	text-align: center;
+}
+.box_red{
+	height: 100px;
+	background-color: red;
+	border:2px solid green;
+	margin: 30px 0;
+	text-align: center;
+}
